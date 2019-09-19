@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/lilnop/static/css/main.b3c017a0.chunk.css",
+    "main.js": "/lilnop/static/js/main.d51dce28.chunk.js",
+    "main.js.map": "/lilnop/static/js/main.d51dce28.chunk.js.map",
+    "runtime~main.js": "/lilnop/static/js/runtime~main.2957a6bd.js",
+    "runtime~main.js.map": "/lilnop/static/js/runtime~main.2957a6bd.js.map",
+    "static/css/2.266e55a5.chunk.css": "/lilnop/static/css/2.266e55a5.chunk.css",
+    "static/js/2.d8194deb.chunk.js": "/lilnop/static/js/2.d8194deb.chunk.js",
+    "static/js/2.d8194deb.chunk.js.map": "/lilnop/static/js/2.d8194deb.chunk.js.map",
+    "index.html": "/lilnop/index.html",
+    "precache-manifest.0bf9a21a6cde7efcef5ba181f4e7c44c.js": "/lilnop/precache-manifest.0bf9a21a6cde7efcef5ba181f4e7c44c.js",
+    "service-worker.js": "/lilnop/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/lilnop/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.b3c017a0.chunk.css.map": "/lilnop/static/css/main.b3c017a0.chunk.css.map",
+    "static/media/HTML.png": "/lilnop/static/media/HTML.eb8e4b1b.png",
+    "static/media/App.css": "/lilnop/static/media/avatar.ae85ec51.png",
+    "static/media/bpl.png": "/lilnop/static/media/bpl.b7cc6e64.png",
+    "static/media/css.png": "/lilnop/static/media/css.c739dd5a.png",
+    "static/media/dice.png": "/lilnop/static/media/dice.25a1431a.png",
+    "static/media/graph.png": "/lilnop/static/media/graph.5332ccaa.png",
+    "static/media/login.png": "/lilnop/static/media/login.ed2db846.png",
+    "static/media/php.png": "/lilnop/static/media/php.de55f30d.png",
+    "static/media/profile.jpg": "/lilnop/static/media/profile.e7ff638c.jpg",
+    "static/media/prog.png": "/lilnop/static/media/prog.e32366c0.png",
+    "static/media/weather-app-image.png": "/lilnop/static/media/weather-app-image.0bc38f2a.png",
+    "static/media/webdev.png": "/lilnop/static/media/webdev.54468afb.png",
+    "static/media/wiki.png": "/lilnop/static/media/wiki.d1c2c0bb.png",
+    "static/media/wp.png": "/lilnop/static/media/wp.1215e2e2.png"
+  }
+}
