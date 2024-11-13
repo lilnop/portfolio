@@ -41,7 +41,7 @@ const Projects = () => {
     {
       id: 6,
       title: "Login Form",
-      description: "React, Redux, Express",
+      description: "HTML/CSS",
       demo: "https://github.com/lilnop/login-form-1/",
       code: "https://lilnop.github.io/login-form-1/"
     }

@@ -14,7 +14,7 @@ const About = () => {
           >
             <h2>About Me</h2>
             <p>
-              I'm a passionate Full Stack Developer with a strong foundation in web
+              I'm an author and a passionate Full Stack Developer with a strong foundation in web
               technologies. My journey in software development started with a curiosity
               about how things work on the internet, which led me to dive deep into
               various programming languages and frameworks.
