@@ -19,7 +19,7 @@ const Nav = () => {
         <h1>Portfolio</h1>
       </div>
 
-      <ul className="nav-menu">
+      <ul className="nav-menu" >
         {links.map(({ id, link }) => (
           <li key={id} className="nav-item">
             <Link to={link} smooth duration={500}>
