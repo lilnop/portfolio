@@ -1,0 +1,80 @@
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 80px;
+    padding: 0 2rem;
+    background-color: var(--primary);
+    color: var(--text-primary);
+    position: fixed;
+    z-index: 100;
+  }
+  
+  .logo h1 {
+    font-size: 2.5rem;
+    color: var(--secondary);
+  }
+  
+  .nav-menu {
+    display: none;
+  }
+  
+  .nav-item {
+    padding: 0 1rem;
+    cursor: pointer;
+    font-weight: 500;
+    color: var(--text-secondary);
+    transition: all 0.2s ease;
+  }
+  
+  .nav-item:hover {
+    transform: scale(1.05);
+    color: var(--secondary);
+  }
+  
+  .hamburger {
+    cursor: pointer;
+    color: var(--text-secondary);
+    z-index: 10;
+  }
+  
+  .mobile-menu {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100vh;
+    background-color: var(--primary);
+    list-style: none;
+  }
+  
+  .mobile-item {
+    padding: 1.5rem;
+    cursor: pointer;
+    font-size: 2rem;
+    color: var(--text-secondary);
+  }
+  
+  .mobile-item:hover {
+    color: var(--secondary);
+  }
+  
+  @media (min-width: 768px) {
+    .nav-menu {
+      display: flex;
+      list-style: none;
+    }
+  
+    .hamburger {
+      display: none;
+    }
+  
+    .mobile-menu {
+      display: none;
+    }
+  }
